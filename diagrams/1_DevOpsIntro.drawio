@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="jew1EUAgoZSJjEpjn8Ze">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-1" value="Client-Business Man" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-2" value="SoftWare Companies" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.303;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3_oRqrBwjkFD2H4X9KsF-1" target="3_oRqrBwjkFD2H4X9KsF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-4" value="IT --&amp;gt; Information Technology" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-5" value="Raw Data --&amp;gt; Meaning --&amp;gt; Information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="640" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-6" value="Who needs information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-7" value="Who can deliver the information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3_oRqrBwjkFD2H4X9KsF-8" target="3_oRqrBwjkFD2H4X9KsF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-8" value="Computer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-9" value="Computer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-11" value="Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3_oRqrBwjkFD2H4X9KsF-12" target="3_oRqrBwjkFD2H4X9KsF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-12" value="Business/Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1235" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-13" value="1. Requirements gather&lt;div&gt;2. Planning and Designing&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. Implementation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. Testing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. Deployment&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6. Maintence&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1165" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-15" value="Software Development Life Cycle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1380" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-17" value="Dev" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-18" value="Testing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_oRqrBwjkFD2H4X9KsF-19" value="Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1680" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

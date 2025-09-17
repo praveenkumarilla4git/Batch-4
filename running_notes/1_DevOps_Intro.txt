@@ -1,0 +1,100 @@
+
+1 year
+Requirements Gathering 
+
+
+Developers 
+	Designing Implementaion
+Testing --> Bugs issues invalids (100 70 30)
+Operations --> they should handle developers and testers
+
+Linear 
+
+Waterfall Model:
+1. Requirements Gathering
+						2. Developement
+										3. Testing
+													4. Developement for fixes
+																			5. Operations /Instalaltions/Deployment/Monitoring
+																													6.Delivery
+Time Waste 
+Low Quality
+Customer dissatisfcation
+Client unhappy
+
+Developer --> One who creates;
+Tester --> one who breaks
+
+2010:
+Agile Methodology
+
+Sprints
+
+1 month --> 4 weeks --> 2 weeks /2 weeks
+
+Modules
+
+Big Code --> Divided into Small Parts 
+
+Sprint = 1 week or 10 days or 2 weeks
+
+Sprint Manager:
+part dev 1
+part 2 dev 2
+
+Testers 2 weeks
+Bugs
+
+
+Sprint 1 --> Developer 1	Tester 0						Feedback 0
+Sprint 2 --> Developer 2	Tester 1 --> Bugs 100 (70/30)	Feedback 0
+Sprint 3 --> Developer 3	Tester 2 --> Bugs 200 (150/50)	Feedback 1
+Sprint 4 --> Developer 4(+F1)	Tester 3 --> Bugs 200 (150/50)	Feedback 2
+Sprint 5 --> Developer 5(+F2)	Tester 3 --> Bugs 200 (150/50)	Feedback 3
+
+
+DevOps:
+Agile --> shrink --> testing
+
+Dev Teams --> DEV Environment 
+Test Teams --> Test Environment Deployment 
+
+Test2 Environemnt --> Monitoring 
+
+Day 1 small code --> Day 1 testing
+
+Day 1 --> Version 1
+Day 2 --> Version 2
+Day 3 --> Version 3
+
+
+Version Control System
+Distributed Version Control System 
+Git
+Linux
+Ansible
+Jenkins
+SonarQube
+Docker
+Kubernetes
+teraform
+
+Controlling Code Versions --> git 
+SonarQube basic and trivial --> Testing 90% --> End User
+
+Python 3.9 version --> code develop --> tester --> 3.12 
+Dev env --> tester env 
+
+Docker --> Issue solution
+Ansible --> Configuration and Automation --> Jenkins --> 
+Kubernetes --> tool
+Monitoring --> Grafana Tool
+
+Cloud --> AWS --> VMs --> Connect 
+Terrraform 
+
+
+
+
+
+
