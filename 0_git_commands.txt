@@ -17,3 +17,11 @@ feat/praveencodechanges → name of your branch.
 =============================================================================
 
 git log gives all the commit history
+
+
+git pull is to update our git local repo exactly same as central repo
+git fetch is checking the changes present in the central repo before merging it with our local repo.
+
+Hence, user can use git fetch to get a glimpse or small idea of what is not present with him locally git local repo and what more is present in the central repo and make a wise decision on if he needs to update his local repo with the new central repo changes or not. If he want his local repo to be in sync with central repo he will use git merge.
+
+So, this is nothing but git pull = git fetch + git merge.
