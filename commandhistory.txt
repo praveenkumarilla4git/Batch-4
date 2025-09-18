@@ -1,0 +1,11 @@
+git status
+touch example.txt --> create a new file
+cat > example.txt --> it will overwrite the contents of example.txt
+to exit editor control+d 
+cat >> example.txt --> it will append the contents of example.txt
+to exit editor control+d
+
+=============================
+In order to make huge changes in the file we use VIM --> Visually Improved
+vi example.txt
+This will open an editor.

@@ -1,0 +1,21 @@
+vi <filename>
+vim <filename>
+
+VIM EDITOR
+
+State --> ESC Mode
+when we hit "i" --> it will go to INSERT
+to enter our code/text into the file we use keyboard key --> "i" --> INSERT
+
+Once we are done with our changes and intputs into the file we need to save the file 
+
+In order to save the file; First we should come out of INSERT mode. How we will do?
+
+next to chagne the mode from INSERT to ESC we
+ESC --> Hit KeyBoard key "ESC"
+
+to save we need to do this ":wq"
+colon save (w) quit (q)
+
+to not save the changes made to file
+colon quit (q) without saving (!)
