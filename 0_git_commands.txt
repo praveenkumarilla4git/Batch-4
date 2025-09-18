@@ -14,3 +14,4 @@ origin → remote repo on GitHub.
 feat/praveencodechanges → name of your branch.
 
 -u (or --set-upstream) → links your local branch with the remote branch, so in future you can just use git push and git pull without extra arguments.
+git log gives all the commit history
