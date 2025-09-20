@@ -1,0 +1,58 @@
+1. git
+to know if git is intslled properly or not
+
+2. git config --global --list
+to know if git user.name and user.email is set or not
+
+3. git config --global user.name=<github profile name>
+we are setting user name
+
+4. git config --global user.email=<github profile name>
+we are setting user name
+
+5. git log 
+--> this will come in later state where git user has already done some commits
+
+6. If we are using git for the first time in the folder it is called as working directory
+so we need to initialize git and make the git know that this is a working directory of the user
+command: git init
+.git hidden folder will be created in the pwd (present working directory) where we have run the command git init
+the folder becomes git folder 
+
+7. git status
+to know if there are any untracked files in the git folder working directory
+to know if there are any tracked (which files are in stagging area) which are to be commited git add . or git add <filename>
+to know if there are any files in git local repo --> git commit -m "<commmit message>"
+
+8. git add . (or) git add <filename> (or) git add -A 
+add files to stagging area
+
+9. git restore --staged <file> 
+remove files from stagging area and bring back to working directory
+
+10. git commit -m "commit message"
+when everything is good to commit we have to use git commit -m "<commit message>"
+
+11. is there any chance to commit file by file
+Ans: NO; when we use git commit -m "<commmit message>"
+
+12. git push
+we have 2 flavours
+1. if there is not relevant and connected branch in github it will ask user to set the git push -u origin main (branch name available in github)
+2. git push to desired existing branch
+
+13. create a new branch
+git checkout -b <new brnach name> --> create new branch and also checkout to new branch
+git command prompt will show the new branch
+
+14. git branch
+to show all the existing branches and also highlight the brnach which we are presentright now
+
+15. git checkout main
+to move to main branch which is already present (as -b is not there it will not create new branch)
+
+16. git checkout praveencodechanges --> move to praveencodechanges branch
+
+
+
+
